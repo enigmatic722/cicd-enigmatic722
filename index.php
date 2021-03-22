@@ -1,2 +1,2 @@
 <?php
-echo "Hello CI/CD Test1"."\n"; 
+echo "Hello CI/CD Test2"."\n"; 
